@@ -2,7 +2,7 @@
 
 This repository contains my submission for the Spectro Cloud technical writer assignment. The task was to improve a draft page about `kubectl` debug commands. The page follows the [Spectro Cloud style guide](https://github.com/spectrocloud/docs-assignments/blob/main/style_guide.md).
 
-For the answer to the assignment, refer to the page itself, [assignment.md](submission/assignment.md). For the explanation of the changes, the test method, and the pull request, refer to [explanation.md](submission/explanation.md).
+For the explanation of the changes, the test method, and the pull request, refer to [explanation.md](submission/explanation.md).
 
 
 ## Contents
